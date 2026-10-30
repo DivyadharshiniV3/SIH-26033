@@ -45,23 +45,57 @@ where selling costs may include transportation charges, handling fees, packaging
 
 ## Flowchart
 
-1. Farmer & Buyer Registration
-          ↓
-2. Enter Crop Details, Prices & Locations
-          ↓
-3. Match Suitable Buyer Opportunities
-          ↓
-4. Estimate Selling Costs
-          ↓
-5. Calculate Net Earnings
-          ↓
-6. Compare Available Selling Options
-          ↓
-7. Estimate Shared Transportation Savings
-          ↓
-8. Generate Comparison Report
-          ↓
-9. Farmer Selects the Most Suitable Offer
+'''
++--------------------------------------+
+|       Farmer & Buyer Registration   |
++--------------------------------------+
+                   |
+                   v
++--------------------------------------+
+|       Enter Crop Details,            |
+|       Prices & Locations             |
++--------------------------------------+
+                   |
+                   v
++--------------------------------------+
+|       Match Suitable Buyer           |
+|       Opportunities                  |
++--------------------------------------+
+                   |
+                   v
++--------------------------------------+
+|       Estimate Selling Costs         |
++--------------------------------------+
+                   |
+                   v
++--------------------------------------+
+|       NetEarning Compare             |
+|       Calculates Earnings            |
++--------------------------------------+
+                   |
+                   v
++--------------------------------------+
+|       Compare Available              |
+|       Selling Options                |
++--------------------------------------+
+                   |
+                   v
++--------------------------------------+
+|       Estimate Shared                |
+|       Transportation Savings         |
++--------------------------------------+
+                   |
+                   v
++--------------------------------------+
+|       Generate Comparison            |
+|       Report                         |
++--------------------------------------+
+                   |
+                   v
++--------------------------------------+
+|       Farmer Selects Most            |
+|       Suitable Offer                 |
++--------------------------------------+'''
 
 ## Feasibility and Viability
 FairShare Market can be implemented as a web-based application using widely available and cost-effective technologies, making it suitable for a hackathon prototype. The initial version only requires basic information such as farmer records, buyer offers, and cost details, making development practical and achievable within a limited timeframe.
