@@ -43,6 +43,9 @@ Net Earnings = Gross Revenue − Total Selling Costs
 
 where selling costs may include transportation charges, handling fees, packaging expenses, commissions, and other applicable costs.
 
+## Flowchart
+
+'''text
 +--------------------------------+
 |       Farmer & Buyer           |
 |          Registration          |
