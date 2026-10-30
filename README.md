@@ -52,49 +52,49 @@ where selling costs may include transportation charges, handling fees, packaging
                  |
                  v
 +----------------------------------+
-|       Enter Crop Details,         |
-|       Prices & Locations          |
+|       Enter Crop Details,        |
+|       Prices & Locations         |
 +----------------------------------+
                  |
                  v
 +----------------------------------+
-|       Match Suitable Buyer        |
-|       Opportunities               |
+|       Match Suitable Buyer       |
+|       Opportunities              |
 +----------------------------------+
                  |
                  v
 +----------------------------------+
-|       Estimate Selling Costs      |
+|       Estimate Selling Costs     |
 +----------------------------------+
                  |
                  v
 +----------------------------------+
-|       NetEarning Compare           |
-|       Calculates Earnings         |
+|       NetEarning Compare         |
+|       Calculates Earnings        |
 +----------------------------------+
                  |
                  v
 +----------------------------------+
-|       Compare Available           |
-|       Selling Options              |
+|       Compare Available          |
+|       Selling Options            |
 +----------------------------------+
                  |
                  v
 +----------------------------------+
-|       Estimate Shared             |
-|       Transportation Savings      |
+|       Estimate Shared            |
+|       Transportation Savings     |
 +----------------------------------+
                  |
                  v
 +----------------------------------+
-|       Generate Comparison         |
-|       Report                       |
+|       Generate Comparison        |
+|       Report                     |
 +----------------------------------+
                  |
                  v
 +----------------------------------+
-|       Farmer Selects Most         |
-|       Suitable Offer              |
+|       Farmer Selects Most        |
+|       Suitable Offer             |
 +----------------------------------+
 
 ## Feasibility and Viability
